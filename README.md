@@ -4,6 +4,12 @@
 > Repo privé — mis à jour **automatiquement chaque vendredi soir** par un rapport hebdomadaire
 > généré sur le VPS (voir `docs/automatisations.md` § Rapport hebdomadaire).
 
+## 🗓️ Une semaine type, en un coup d'œil
+
+Voir **[docs/workflows-semaine.md](docs/workflows-semaine.md)** : calendrier complet de tout ce qui
+tourne chaque semaine (watchdog 15 min, rapports quotidiens, diffusions Discord 3×/j,
+dépendances + PR le lundi, rapport hebdo le vendredi, backups le dimanche, webhooks Stripe/Tally).
+
 ## 🎯 Objectif
 
 Ce dépôt répond à une seule question : **comment mon GitHub est-il géré, et que font les
