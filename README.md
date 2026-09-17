@@ -30,6 +30,7 @@ hebdomadaire de l'activité réelle (commits, PR, dépôts créés/archivés).
 | `README.md` | ce fichier |
 | `docs/regles-gestion.md` | politique de gestion du compte (dépôts actifs/archivés, cadences) |
 | `docs/automatisations.md` | inventaire détaillé des automatisations GitHub (flows, déclencheurs, pièges) |
+| `docs/workflows-semaine.md` | une semaine type : tout ce qui tourne, quand, et à quoi ça sert |
 | `semaines/` | rapports hebdomadaires auto-générés (`AAAA-Sww.md`), un fichier par semaine |
 
 ## 🗓️ Rapport hebdomadaire
