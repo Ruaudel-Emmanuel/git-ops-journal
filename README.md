@@ -1,7 +1,7 @@
 # git-ops-journal
 
 > **Journal de gestion d'un compte GitHub personnel + inventaire de ses automatisations.**
-> Repo privé — mis à jour **automatiquement chaque vendredi soir** par un rapport hebdomadaire
+> Repo public — mis à jour **automatiquement chaque vendredi soir** par un rapport hebdomadaire
 > généré sur le VPS (voir `docs/automatisations.md` § Rapport hebdomadaire).
 
 ## 🗓️ Une semaine type, en un coup d'œil
